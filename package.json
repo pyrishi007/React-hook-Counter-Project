@@ -1,0 +1,26 @@
+{
+  "name": "counter_app",
+  "version": "1.0.0",
+  "description": "\"Just an basic Counter app\"",
+  "scripts": {
+    "start":"parcel counter-index.html",
+    "test": "\"jest\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyrishi007/Counter-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pyrishi007/Counter-App/issues"
+  },
+  "homepage": "https://github.com/pyrishi007/Counter-App#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
