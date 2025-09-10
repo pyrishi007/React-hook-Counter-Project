@@ -3,6 +3,7 @@ import reactDOM from "react-dom/client";
 import "./counter-app.css";
 import { useState } from "react";
 
+//header
 const Header = () => {
   let [counterUp, setCounterUp] = useState(0);
 
